@@ -10,3 +10,6 @@ This is expected to improve my software engineering chops
 
 Plan
 Small pieces of concept at a time, and repeat to set it
+
+Notes
+Today I created a local git repo, added the README.md file and performed a numbe rof commits
