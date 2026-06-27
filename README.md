@@ -20,3 +20,5 @@ Today I learned
  - Git tracks the project state
  - It is good practice to use git diff or git status to check what I am doing
  - Get a list of commits via git log --oneline
+ - Created repo in GitHub and connected local repo to GitHub
+ - Configured remote and pushed to GitHub
