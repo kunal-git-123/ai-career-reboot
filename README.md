@@ -12,4 +12,11 @@ Plan
 Small pieces of concept at a time, and repeat to set it
 
 Notes
-Today I created a local git repo, added the README.md file and performed a numbe rof commits
+Today I learned
+ - Creating a local folder and starting a repo with git init
+ - Creating a file and adding it to staging by git add <filename>
+ - Committing the change with a short comment by git commit -m "message"
+ - Learning that git commits are snapshots
+ - Git tracks the project state
+ - It is good practice to use git diff or git status to check what I am doing
+ - Get a list of commits via git log --oneline
