@@ -4,3 +4,6 @@ Part of first git commit
 
 Project Description
 This is expected to be an elementary ai project
+
+Goal
+This is expected to improve my soft ware engineering chops
