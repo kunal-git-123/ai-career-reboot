@@ -22,3 +22,7 @@ Today I learned
  - Get a list of commits via git log --oneline
  - Created repo in GitHub and connected local repo to GitHub
  - Configured remote and pushed to GitHub
+ - Remote configure is via  git remote add origin https://github.com/kunal-git-123/ai-career-reboot.git - the https part is remote repo link
+ - This sets a push and fetch endpoint, visible via git remote -v
+ - The local is by convention called master, so rename to main: git branch -M main
+ - Then push to remote: git push -u origin main or git push. In both cases you will be asked Git username. As password provide a PAT token generated from Git Hub and not git login password.
